@@ -1,2 +1,2 @@
 # Python-Core
-Python Version 3.10
+This repo is for Python programming version 3.10
